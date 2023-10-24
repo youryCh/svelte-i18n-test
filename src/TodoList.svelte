@@ -39,7 +39,6 @@
 
 <style>
 .container {
-  /* margin: 0 auto; */
   width: 500px;
   height: 60vh;
   border: 1px solid #ccc;
