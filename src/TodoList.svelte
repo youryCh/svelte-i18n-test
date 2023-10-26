@@ -24,7 +24,7 @@
 </script>
 
 <div class="container">
-  <label for="input">{$_('add_todo')}</label>
+  <label for="input">{@html $_('add_todo')}</label>
   <div class="input-wrapper">
     <input on:keydown={handleClick} bind:value={todo} id="input" type="text" placeholder={$_('placeholder')}>
     <button on:click={addTodo}>{$_('add_btn')}</button>

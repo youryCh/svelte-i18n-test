@@ -1,5 +1,5 @@
 {
-  "add_todo": "Add new todo",
+  "add_todo": "Add new todo <br> here",
   "hello": "Hello {name}!",
   "total": "total: {total}",
   "placeholder": "Type here",
